@@ -9,4 +9,13 @@ Converted from https://github.com/thelinuxchoice/blackeye
 
 Uses Site Templates From BlackEye but you can host with a custom sub-domain to Serveo.
 
-Requires PHP and SSH to be installed.
+
+# Uses
+
+1.git clone
+
+2.https://github.com/An0nUD4Y/blackeye.git
+
+3../blackeye.sh
+
+# J3RRY
